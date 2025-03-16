@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishannn-Gitcoder
 - 👀 I’m interested in Coding , App Development , Data-Science , IT Sector , Artificial Intelligence (AI) and Machine Learning (ML)
-- 🌱 I’m currently learning Python , C++ , C , Java , Javascript
+- 🌱 I’m currently learning Python , C++ , C , Java , etc.
 - 💞️ I’m looking to collaborate on projects including Coding , AI and ML
 - 📫 Contact me on ishandas.office@gmail.com // ishandas1825@gmail.com
 - 😄 Pronouns: He/Him/His
