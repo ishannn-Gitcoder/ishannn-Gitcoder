@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding , App Development , Data-Science , IT Sector , Artificial Intelligence (AI) and Machine Learning (ML)
 - 🌱 I’m currently learning Python , C++ , C , Java , Javascript
 - 💞️ I’m looking to collaborate on projects including Coding , AI and ML
-- 📫 Contact me on ishandas.office@gmail.com/ishandas1825@gmail.com
+- 📫 Contact me on ishandas.office@gmail.com // ishandas1825@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: The first computer programmer was Ada Lovelace, who wrote an algorithm for Charles Babbage's early mechanical computer in the 1800s! 👩‍💻
 
